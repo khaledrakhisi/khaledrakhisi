@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @khaledrakhisi
+- 👋 Member of EdSPIRIT team.
 - 👀 I’m interested in frontend development
 - 🌱 I’m currently and always learning javascript and frontend libraries
 - 💞️ I’m looking to collaborate on frontend projects/Teams
